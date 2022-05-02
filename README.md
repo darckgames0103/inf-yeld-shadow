@@ -1,2 +1,1 @@
-# inf-yeld-shadow
-inf yeld shadow
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
